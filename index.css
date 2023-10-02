@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: #e84d4d;
+  background-color: #000;
   min-height: 200vh;
 }
 
@@ -27,7 +27,7 @@ header {
 
 header.sticky {
   padding: 5px 70px;
-  background: black;
+  background: rgb(105, 76, 76);
 }
 
 header .logo {
